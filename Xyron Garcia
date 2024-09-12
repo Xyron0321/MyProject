@@ -1,0 +1,10 @@
+public class XyronGarcia {
+    public static void main(String[] args) {
+      int length =21; //this is the variable for length.
+      int width =47; // this is the variable for width.
+      int area= length * + width; // this is the formula of the area.
+      int perimeter =2 * +(length+width); // this is the formula for the perimeter.
+      
+      System.out.println("The area is equal to " + area);
+      System.out.println("The perimeter is "  +perimeter);
+    }
